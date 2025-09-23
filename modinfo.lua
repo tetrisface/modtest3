@@ -5,8 +5,9 @@ return {
     shortname='YOURMOD',
     mutator='0', -- or '1' if it's a mutator
     game='Beyond All Reason',
-    shortGame='BAR',
-    modtype=1,
+    shortname='modtest3',
+    mutator='1',
+    modtype=3,           -- Mutator type
     depend = {
         [[rapid://byar:stable]],
     }
