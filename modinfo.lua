@@ -6,8 +6,5 @@ return {
     mutator='1',
     game='Beyond All Reason',
     shortGame='BAR',
-    modtype=3,
-    depend = {
-        [[rapid://byar:stable]],
-    }
+    modtype=1,
 }
